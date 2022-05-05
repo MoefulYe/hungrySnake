@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "menu.h": "c",
+        "stdio.h": "c",
+        "*.rh": "c"
+    }
+}
